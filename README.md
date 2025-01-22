@@ -3,7 +3,7 @@
 <p>Nama: Jordy Lian Ferdinand</p>
 <p>NIM: 2022230009</p>
 
-## Aplikasi Bioskopin, Kelas MC Pak Afri Yudha - 
+## Aplikasi Bioskopin, Kelas MC Pak Afri Yudha
 
 Anda diminta untuk membuat aplikasi kasir sederhana yang mencakup fitur:
 
