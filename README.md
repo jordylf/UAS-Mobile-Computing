@@ -5,12 +5,12 @@
 
 ## Aplikasi Bioskopin, Kelas MC Pak Afri Yudha
 
-Anda diminta untuk membuat aplikasi kasir sederhana yang mencakup fitur:
+Aplikasi Biskop Sederhana yang mencakup fitur:
 
 <ol>
   <li>Login, dan Daftar Akun</li>
   <li>Transaksi</li>
-  <li>Database, dan Hubungan antar Database</li>
+  <li>Database</li>
   <li>CRUD</li>
 </ol>
 
