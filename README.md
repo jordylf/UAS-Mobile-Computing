@@ -1,4 +1,4 @@
-# UAS BIOSKOPIN MOBILE COMPUTING
+# UAS BIOSKOPIN MOBILE COMPUTING SEMESTER 5
 
 <p>Nama: Jordy Lian Ferdinand</p>
 <p>NIM: 2022230009</p>
@@ -20,5 +20,3 @@ Aplikasi Biskop Sederhana yang mencakup fitur:
 <li>email : admin@gmail.com</li>
 <li>password : 123123</li>
 </ul>
-
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
